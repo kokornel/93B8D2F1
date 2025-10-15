@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "marka": "Toyota",
+    "modell": "Corolla",
+    "evjarat": 2018,
+    "ar": 4200000,
+    "futott_km": 68000,
+    "uzemanyag": "benzin",
+    "karosszeria": "sedan"
+  },
+  {
+    "id": 2,
+    "marka": "Volkswagen",
+    "modell": "Golf",
+    "evjarat": 2016,
+    "ar": 3600000,
+    "futott_km": 95000,
+    "uzemanyag": "dízel",
+    "karosszeria": "hatchback"
+  },
+  {
+    "id": 3,
+    "marka": "Tesla",
+    "modell": "Model 3",
+    "evjarat": 2021,
+    "ar": 12500000,
+    "futott_km": 20000,
+    "uzemanyag": "elektromos",
+    "karosszeria": "sedan"
+  },
+  {
+    "id": 4,
+    "marka": "BMW",
+    "modell": "X1",
+    "evjarat": 2019,
+    "ar": 8800000,
+    "futott_km": 45000,
+    "uzemanyag": "benzin",
+    "karosszeria": "SUV"
+  },
+  {
+    "id": 5,
+    "marka": "Audi",
+    "modell": "A4",
+    "evjarat": 2017,
+    "ar": 6400000,
+    "futott_km": 78000,
+    "uzemanyag": "dízel",
+    "karosszeria": "sedan"
+  }
+]
